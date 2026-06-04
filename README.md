@@ -1,4 +1,4 @@
-# Odin Reciepes
+# Odin Recipes
 
 This is a collaboration project of my internal HTML Dieties and Heisenberg to cook some... recipes.
 
